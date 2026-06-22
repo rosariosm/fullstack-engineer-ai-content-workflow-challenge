@@ -191,19 +191,19 @@ Criteria marked **P0** are required for challenge submission. **P1** items are n
 
 ## Timeline
 
-Phased plan for solo training delivery. Dates are indicative — adjust in ClickUp.
+Phased plan for solo training delivery. **Total duration: one week or less** — phases are ordered steps, not calendar weeks. Track progress in ClickUp.
 
-| Phase | Scope | Target |
+| Phase | Scope | Status |
 |-------|--------|--------|
-| **0 — Bootstrap** | Context, handshake, PRD, TRD, ADRs | Complete (`86e1ykuyu`, `86e1ykv0j`; PRD in progress) |
-| **1 — Harness** | `AGENTS.md`, optional `feature_list.json`, repo layout (`backend/`, `frontend/`) | Week 1 |
-| **2 — Backend core** | Django models, GraphQL schema, CRUD, review state machine | Week 2 |
-| **3 — AI layer** | OpenAI/Anthropic service, generate + translate mutations | Week 3 |
-| **4 — Frontend** | Dashboard, review UI, GraphQL client | Week 4 |
-| **5 — Real-time + Docker** | Subscriptions, `compose.yml`, README setup | Week 5 |
-| **6 — Polish** | Tests, CI, P1 items as time allows | Week 6+ |
+| **0 — Bootstrap** | Context, handshake, PRD, TRD, ADRs | In progress (PRD on PR #2) |
+| **1 — Harness** | `AGENTS.md`, optional `feature_list.json`, repo layout (`backend/`, `frontend/`) | Next |
+| **2 — Backend core** | Django models, GraphQL schema, CRUD, review state machine | Pending |
+| **3 — AI layer** | OpenAI/Anthropic service, generate + translate mutations | Pending |
+| **4 — Frontend** | Dashboard, review UI, GraphQL client | Pending |
+| **5 — Real-time + Docker** | Subscriptions, `compose.yml`, README setup | Pending |
+| **6 — Polish** | Tests, CI, P1 items if time remains | Optional |
 
-**MVP cut (minimum submission):** Phases 1–5 P0 criteria only.
+**MVP cut (minimum submission):** Phases 1–5 P0 criteria within the one-week training window.
 
 ---
 
