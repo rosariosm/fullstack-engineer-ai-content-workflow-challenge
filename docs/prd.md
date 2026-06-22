@@ -1,13 +1,5 @@
 # PRD: ACME GLOBAL MEDIA — AI Content Workflow
 
-| Field | Value |
-|-------|-------|
-| **Ticket** | [86e1ykv42](https://app.clickup.com/t/86e1ykv42) (PHASE-0.3) |
-| **Status** | Draft — pending Ro review |
-| **Client** | ACME GLOBAL MEDIA (fictional) |
-| **Repository** | [rosariosm/fullstack-engineer-ai-content-workflow-challenge](https://github.com/rosariosm/fullstack-engineer-ai-content-workflow-challenge) |
-
----
 
 ## Objective
 
